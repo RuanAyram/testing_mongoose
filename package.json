@@ -1,0 +1,19 @@
+{
+  "name": "mongoose_ex",
+  "version": "0.0.1",
+  "description": "Testing Mongoose",
+  "main": "app.js",
+  "keywords": [
+    "mongo",
+    "express",
+    "nodejs",
+    "mongoose"
+  ],
+  "author": "Ruan Kaylo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.18"
+  }
+}
